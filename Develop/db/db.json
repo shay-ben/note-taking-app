@@ -1,6 +1,15 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+        {
+          "title": "Do your homework!",
+          "text": "youre running out of time!"
+        },
+        {
+          "title": "Work on your project",
+          "text": "components need to be done."
+        },
+        {
+          "title": "client lunch on thursday",
+          "text": "make sure to bring the correct files"
+        }
+
 ]
